@@ -71,14 +71,17 @@ Pressure control systems use distinct valves for managing pressure: Pressure Rel
 
 ## 1. Key Valve Types and Functions:
 
-### 1.1 Pressure Relief/Release Valves: These are safety devices that remain closed until pressure hits a specific limit, at which point they open to vent excess pressure to prevent system failure. [18](https://www.sciencedirect.com/topics/engineering/relief-valve)
+### 1.1 Pressure Relief/Release Valves: 
+These are safety devices that remain closed until pressure hits a specific limit, at which point they open to vent excess pressure to prevent system failure. [18](https://www.sciencedirect.com/topics/engineering/relief-valve)
 
-### 1.2 Air Release/Vacuum Breaker Valves: Used in piping to automatically release accumulated air pockets, preventing water hammer and inefficiencies.
+### 1.2 Air Release/Vacuum Breaker Valves: 
+Used in piping to automatically release accumulated air pockets, preventing water hammer and inefficiencies.
 
-### 1.3Pressure Reducing/Regulating Valves: These control the downstream pressure to a desired, lower level, acting proactively rather than reactively.
+### 1.3Pressure Reducing/Regulating Valves: 
+These control the downstream pressure to a desired, lower level, acting proactively rather than reactively.
 
-### 1.4Injection/Check Valves: These allow flow in only one direction, ensuring materials are injected without backflow. These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems. 
-[19](https://avtekvalves.com/a-quick-and-simple-guide-to-air-release-valves/) [20](https://hydraulicspecialty.com/direct-acting-vs-pilot-operated-relief-valves) [21](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control) [22](https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html) [23](https://www.youtube.com/watch?v=aMnRFTxi-dQ) [24](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control)
+### 1.4Injection/Check Valves: These allow flow in only one direction, ensuring materials are injected without backflow. 
+These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems. [19](https://avtekvalves.com/a-quick-and-simple-guide-to-air-release-valves/) [20](https://hydraulicspecialty.com/direct-acting-vs-pilot-operated-relief-valves) [21](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control) [22](https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html) [23](https://www.youtube.com/watch?v=aMnRFTxi-dQ) [24](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control)
 
 ---
 Ronni Ross  
