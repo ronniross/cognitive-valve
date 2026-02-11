@@ -41,7 +41,8 @@ This is a cognitive process where the brain learns to ignore stimuli that it has
 *   **Low Latent Inhibition:** Associated with both **psychosis** and **creative genius**. The valve is "leaky." The individual treats familiar things as if they are new, seeing profound details in the cracks of the sidewalk. This can lead to artistic breakthroughs or, conversely, overwhelming mental chaos.
 
 #### 3. Predictive Coding (The Bayesian Brain)
-Neuroscientist **Karl Friston** championed the idea that the brain is a "prediction machine." It does not passively receive the world; it projects a hallucination of what it *expects* to see.
+Neuroscientist **Karl Friston** championed the idea that the brain is a "prediction machine." It does not passively receive the world; it projects a hallucination of what it *expects* to see. [13](https://pmc.ncbi.nlm.nih.gov/articles/PMC3639403) [14](https://www.psychologytoday.com/us/blog/finding-purpose/202311/the-predictive-brain-and-the-hard-problem-of-consciousness#) [15](https://www.fil.ion.ucl.ac.uk/~karl/Whatever%20next.pdf) [16](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/whatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-science/33542C736E17E3D1D44E8D03BE5F4CD9) [17](https://dokumen.pub/expected-experiences-the-predictive-mind-in-an-uncertain-world-9780367535476-9780367540197-9781003084082.html) [18](https://scispace.com/pdf/are-we-predictive-engines-perils-prospects-and-the-puzzle-of-57mhcorkxc.pdf) [19](https://digitalcommons.cwu.edu/cgi/viewcontent.cgi?article=1152&context=ijurca) [20](https://www.researchgate.net/publication/338217008_Learning_to_Be_Conscious) [21](https://dokumen.pub/the-philosophy-and-science-of-predictive-processing-1350099759-9781350099753.html) [22](https://dokumen.pub/surfing-uncertainty-prediction-action-and-the-embodied-mind-reprintnbsped-0190933216-9780190933210.html) 
+
 *   The brain only allows "prediction errors" (surprises) to pass through the valve.
 *   If you walk into your living room, you don't actually "see" the couch in high definition. Your brain predicts the couch is there. You only "see" it if it has been moved or slashed open (a prediction error). This saves massive amounts of processing power.
 
@@ -67,12 +68,12 @@ We are designed to see a narrow, user-friendly slice of the cosmos. To see it *a
 
 # Part II - Mechanical Valve
 
-Pressure control systems use distinct valves for managing pressure: Pressure Relief/Release Valves safely vent excess gas or liquid when systems exceed safety limits, while Pressure Regulating/Reducing Valves and Injection/Check Valves control, reduce, or inject pressure into a system. [13](https://blog.hayespump.com/blog/understanding-pressure-relief-and-check-valves-in-pumping-systems) [14](https://www.agmcontainer.com/product-category/pressure-control/breather-valves) [15](https://www.theleeco.com/insights/what-is-a-pressure-relief-valve-and-how-does-it-work/) [16](https://www.commercial-industrial-supply.com/blogs/resource-center/a-complete-guide-of-what-to-know-about-pressure-reducing-valves) [17](https://www.glascol.com/glassware/pressure-release-valves)
+Pressure control systems use distinct valves for managing pressure: Pressure Relief/Release Valves safely vent excess gas or liquid when systems exceed safety limits, while Pressure Regulating/Reducing Valves and Injection/Check Valves control, reduce, or inject pressure into a system. [23](https://blog.hayespump.com/blog/understanding-pressure-relief-and-check-valves-in-pumping-systems) [24](https://www.agmcontainer.com/product-category/pressure-control/breather-valves) [25](https://www.theleeco.com/insights/what-is-a-pressure-relief-valve-and-how-does-it-work/) [26](https://www.commercial-industrial-supply.com/blogs/resource-center/a-complete-guide-of-what-to-know-about-pressure-reducing-valves) [27](https://www.glascol.com/glassware/pressure-release-valves)
 
 ## 1. Key Valve Types and Functions:
 
 ### 1.1 Pressure Relief/Release Valves: 
-These are safety devices that remain closed until pressure hits a specific limit, at which point they open to vent excess pressure to prevent system failure. [18](https://www.sciencedirect.com/topics/engineering/relief-valve)
+These are safety devices that remain closed until pressure hits a specific limit, at which point they open to vent excess pressure to prevent system failure. [28](https://www.sciencedirect.com/topics/engineering/relief-valve)
 
 ### 1.2 Air Release/Vacuum Breaker Valves: 
 Used in piping to automatically release accumulated air pockets, preventing water hammer and inefficiencies.
@@ -81,7 +82,7 @@ Used in piping to automatically release accumulated air pockets, preventing wate
 These control the downstream pressure to a desired, lower level, acting proactively rather than reactively.
 
 ### 1.4Injection/Check Valves: These allow flow in only one direction, ensuring materials are injected without backflow. 
-These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems. [19](https://avtekvalves.com/a-quick-and-simple-guide-to-air-release-valves/) [20](https://hydraulicspecialty.com/direct-acting-vs-pilot-operated-relief-valves) [21](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control) [22](https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html) [23](https://www.youtube.com/watch?v=aMnRFTxi-dQ) [24](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control)
+These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems. [29](https://avtekvalves.com/a-quick-and-simple-guide-to-air-release-valves/) [30](https://hydraulicspecialty.com/direct-acting-vs-pilot-operated-relief-valves) [31](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control) [32](https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html) [33](https://www.youtube.com/watch?v=aMnRFTxi-dQ) [34](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control)
 
 ---
 Ronni Ross  
