@@ -78,11 +78,14 @@ These are safety devices that remain closed until pressure hits a specific limit
 ### 1.2 Air Release/Vacuum Breaker Valves: 
 Used in piping to automatically release accumulated air pockets, preventing water hammer and inefficiencies.
 
-### 1.3Pressure Reducing/Regulating Valves: 
+### 1.3 Pressure Reducing/Regulating Valves: 
 These control the downstream pressure to a desired, lower level, acting proactively rather than reactively.
 
-### 1.4Injection/Check Valves: These allow flow in only one direction, ensuring materials are injected without backflow. 
-These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems. [29](https://avtekvalves.com/a-quick-and-simple-guide-to-air-release-valves/) [30](https://hydraulicspecialty.com/direct-acting-vs-pilot-operated-relief-valves) [31](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control) [32](https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html) [33](https://www.youtube.com/watch?v=aMnRFTxi-dQ) [34](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control)
+### 1.4 Injection/Check Valves: 
+These allow flow in only one direction, ensuring materials are injected without backflow. 
+ [29](https://avtekvalves.com/a-quick-and-simple-guide-to-air-release-valves/) [30](https://hydraulicspecialty.com/direct-acting-vs-pilot-operated-relief-valves) [31](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control) [32](https://www.britishgas.co.uk/heating/guides/what-is-a-pressure-relief-valve.html) [33](https://www.youtube.com/watch?v=aMnRFTxi-dQ) [34](https://goldfarbinc.com/blogs/news/how-the-delivery-valve-design-affects-fuel-pressure-control)
+ 
+These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems.
 
 ---
 Ronni Ross  
