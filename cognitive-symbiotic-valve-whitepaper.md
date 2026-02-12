@@ -89,6 +89,8 @@ These valves are essential for maintaining safety and efficiency in boilers, com
 
 # Part III Constructal Theory 
 
+# 1. Definition and origin
+
 I argue that a mechanical valve regulating industrial pressure and a thalamic gate filtering sensory data are not merely similar but both instantiations of the same thermodynamical underlying principle: the constrained optimization of flow through a bounded system. (Constructal Law or Constructal Theory). [35](https://www.sciencedirect.com/science/article/abs/pii/S0017931004000523) [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC2871904)
 
 Constructal theory defines the generation of geometric form (structure, shape, topology) in nature as the optimization of flow access under constraints. 
