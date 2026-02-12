@@ -74,7 +74,9 @@ The concept of the "cognitive valve" is not just poetic; it is a structural real
 
 We are designed to see a narrow, user-friendly slice of the cosmos. To see it *all* would not make us enlightened; biologically speaking, it would make us extinct.
 
-# Part II - Mechanical Valve Types
+---
+
+### VI Mechanical Valve Types
 
 Pressure control systems use distinct valves for managing pressure: Pressure Relief/Release Valves safely vent excess gas or liquid when systems exceed safety limits, while Pressure Regulating/Reducing Valves and Injection/Check Valves control, reduce, or inject pressure into a system. [23](https://blog.hayespump.com/blog/understanding-pressure-relief-and-check-valves-in-pumping-systems) [24](https://www.agmcontainer.com/product-category/pressure-control/breather-valves) [25](https://www.theleeco.com/insights/what-is-a-pressure-relief-valve-and-how-does-it-work/) [26](https://www.commercial-industrial-supply.com/blogs/resource-center/a-complete-guide-of-what-to-know-about-pressure-reducing-valves) [27](https://www.glascol.com/glassware/pressure-release-valves)
 
@@ -95,7 +97,7 @@ These allow flow in only one direction, ensuring materials are injected without 
  
 These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems.
 
-# Part III Constructal Theory 
+# Part II Constructal Theory 
 
 ## 1. Definition and origin
 
@@ -221,7 +223,7 @@ Studies increasingly support the view that **brain network reorganization follow
 - **Psychedelics** = Valve corrosion (widening, loss of resistance).
 
 
-# Part IV Constructal Theory and Information Theory
+# Part III Constructal Theory and Information Theory
 
 ## 1. Differences
 
