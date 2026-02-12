@@ -87,9 +87,7 @@ These allow flow in only one direction, ensuring materials are injected without 
  
 These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems.
 
-# Part III 
-
-## 1. Constructal Theory vs Information Theory
+# Part III Constructal Theory 
 
 I argue that a mechanical valve regulating industrial pressure and a thalamic gate filtering sensory data are not merely similar but both instantiations of the same thermodynamical underlying principle: the constrained optimization of flow through a bounded system. (Constructal Law or Constructal Theory). [35](https://www.sciencedirect.com/science/article/abs/pii/S0017931004000523) [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC2871904)
 
