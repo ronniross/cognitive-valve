@@ -105,6 +105,8 @@ Mechanism: It explains the natural formation of tree-shaped flow structures, bra
 
 The objective is to maximize global performance, which is equivalent to minimizing overall flow resistance or minimizing entropy generation. [42](https://www.sciencedirect.com/science/article/abs/pii/S0735193323003366) [43](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/59/5/269/446372/Constructal-Theory-From-Engineering-to-Physics-and?redirectedFrom=PDF) [44](https://fullpdfword.org/reviews/u4A87D/245592/4968440-advanced-engineering-thermodynamics-bejan)
 
+It provides a physical basis for natural patterns, including the evolution of shapes in biology and technology and it is considered a fundamental, unifying law that covers natural, human-made, and social systems. [45](https://journals.biologists.com/jeb/article/208/9/1677/9374/The-constructal-law-of-organization-in-nature-tree) [46](https://royalsocietypublishing.org/rstb/article-abstract/365/1545/1335/21264/The-constructal-law-of-design-and-evolution-in?redirectedFrom=fulltext)
+
 ---
 Ronni Ross  
 2026
