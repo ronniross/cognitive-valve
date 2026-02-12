@@ -133,7 +133,7 @@ In summary, while constructal theory is widely praised for providing insights in
 
 # Part IV Constructal Theory and Information Theory
 
-# 1. Differences
+## 1. Differences
 
 Constructal Theory and Information Theory are two distinct frameworks for understanding how systems work, but they approach the world from opposite ends of the spectrum: one is a physics theory about geometry and flow, while the other is a mathematical theory about probability and communication.
 
@@ -148,7 +148,7 @@ Constructal Theory and Information Theory are two distinct frameworks for unders
 | **Motto** | "Design is a phenomenon of physics." | "Information is the resolution of uncertainty." |
 
 
-## 1.2 Conceptual Differences: Flow vs. Bits
+### 1.2 Conceptual Differences: Flow vs. Bits
 
 #### **Constructal Theory: The Physics of Flow**
 Constructal theory views everything as a **flow system**. [64](https://pubs.aip.org/aip/jap/article-abstract/113/15/151301/374245/Constructal-law-of-design-and-evolution-Physics?redirectedFrom=fulltext) [65](https://www.youtube.com/watch?v=tgEBTPee9ZM) [66](https://constructal.wordpress.com/constructal-law/)
@@ -163,7 +163,7 @@ Information theory treats information as a **measurable quantity** independent o
 *   **Prediction:** It predicts the **limits** of data compression and transmission speed. It tells you the minimum number of bits needed to encode a message and the maximum speed you can send it over a wire.
 *   **Application to Information:** It is concerned with the *fidelity* and *efficiency* of the signal itself (e.g., how to compress a video file or correct errors in a Wi-Fi signal), not necessarily the physical shape of the cables or the social hierarchy of the people sending it.
 
-## 1.3 The Battle of Entropies
+### 1.3 The Battle of Entropies
 
 The concept of **Entropy** is the biggest point of confusion and intersection between the two theories.
 
@@ -178,7 +178,7 @@ The concept of **Entropy** is the biggest point of confusion and intersection be
     *   **Relationship:** Bejan argues that the "design" we see in nature (order) is the physics phenomenon that facilitates the dissipation of energy (disorder) more efficiently.
 
 
-## 1.4. Network Topology: Trees vs. Meshes
+### 1.4 Network Topology: Trees vs. Meshes
 
 If you asked both theorists to design a network (like the Internet or a delivery service), they would give different advice:
 
