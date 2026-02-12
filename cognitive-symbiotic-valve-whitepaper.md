@@ -101,7 +101,7 @@ It was discovered and formulated by Adrian Bejan, a Romanian-American professor 
 It posits that for a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed currents that flow through it.
 
 The optimization is subject to constraints, such as limited space, materials, or volume (e.g., maximizing heat transfer while restricting material volume).
-Mechanism: It explains the natural formation of tree-shaped flow structures, branching networks, and vascularization in both animate (rivers, lungs) and inanimate systems (power plants, heat exchangers).
+Mechanism: It explains the natural formation of tree-shaped flow structures, branching networks, and vascularization in both animate (rivers, lungs) and inanimate systems (power plants, heat exchangers). https://itrevolution.com/articles/the-physics-of-flow-how-the-constructal-law-can-revolutionize-product-development/
 
 The objective is to maximize global performance, which is equivalent to minimizing overall flow resistance or minimizing entropy generation. [42](https://www.sciencedirect.com/science/article/abs/pii/S0735193323003366) [43](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/59/5/269/446372/Constructal-Theory-From-Engineering-to-Physics-and?redirectedFrom=PDF) [44](https://fullpdfword.org/reviews/u4A87D/245592/4968440-advanced-engineering-thermodynamics-bejan)
 
