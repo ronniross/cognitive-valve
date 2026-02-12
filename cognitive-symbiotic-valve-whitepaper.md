@@ -4,11 +4,12 @@
 
 → Part I: The biological brain is a valve (reducing reality);  
 
-→ Part II: Mechanical valves are real valves (controlling pressure); 
+→ Part II: Constructal Theory explains why both exist (physics of flow);  
 
-→ Part III: Constructal Theory explains why both exist (physics of flow);  
+→ Part III: Information Theory measures what these valves process (bits vs. entropy)  
 
-→ Part IV: Information Theory measures what these valves process (bits vs. entropy)  
+→ Part IV: Information Theory vs Constructal Theory
+
 
 # Part I - Reducing Valve
 
