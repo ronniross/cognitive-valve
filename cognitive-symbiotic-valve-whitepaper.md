@@ -87,6 +87,24 @@ These allow flow in only one direction, ensuring materials are injected without 
  
 These valves are essential for maintaining safety and efficiency in boilers, compressors, and hydraulic systems.
 
+# Part III Constructal Theory vs Information Theory
+
+I argue that a mechanical valve regulating industrial pressure and a thalamic gate filtering sensory data are not merely similar but both instantiations of the same thermodynamical underlying principle: the constrained optimization of flow through a bounded system. (Constructal Law or Constructal Theory). [35](https://www.sciencedirect.com/science/article/abs/pii/S0017931004000523) [36](https://pmc.ncbi.nlm.nih.gov/articles/PMC2871904)
+
+Constructal theory defines the generation of geometric form (structure, shape, topology) in nature as the optimization of flow access under constraints. 
+[37](https://www.researchgate.net/publication/243582018_Thermodynamic_Optimization_of_Flow_Geometry_in_Mechanical_and_Civil_Engineering)
+
+It is a law of physics stating that all flow systems (natural or human-made) evolve in time to increase access to flow, creating tree-like,, hierarchical, or, dendritic configurations to minimize resistance. 
+
+It was discovered and formulated by Adrian Bejan, a Romanian-American professor of mechanical engineering at Duke University, in 1996. [38](https://mems.duke.edu/impact/research/energy/bejan-constructal-law) [39](https://medium.com/@jmullaly/on-constructal-law-and-theory-967c81a42565) [40](https://en.wikipedia.org/wiki/Adrian_Bejan) [41](https://www.eoht.info/page/Constructal%20theory)
+
+It posits that for a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed currents that flow through it.
+
+The optimization is subject to constraints, such as limited space, materials, or volume (e.g., maximizing heat transfer while restricting material volume).
+Mechanism: It explains the natural formation of tree-shaped flow structures, branching networks, and vascularization in both animate (rivers, lungs) and inanimate systems (power plants, heat exchangers).
+
+The objective is to maximize global performance, which is equivalent to minimizing overall flow resistance or minimizing entropy generation. [42](https://www.sciencedirect.com/science/article/abs/pii/S0735193323003366) [43](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/59/5/269/446372/Constructal-Theory-From-Engineering-to-Physics-and?redirectedFrom=PDF) [44](https://fullpdfword.org/reviews/u4A87D/245592/4968440-advanced-engineering-thermodynamics-bejan)
+
 ---
 Ronni Ross  
 2026
