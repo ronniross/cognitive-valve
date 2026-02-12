@@ -94,18 +94,21 @@ I argue that a mechanical valve regulating industrial pressure and a thalamic ga
 Constructal theory defines the generation of geometric form (structure, shape, topology) in nature as the optimization of flow access under constraints. 
 [37](https://www.researchgate.net/publication/243582018_Thermodynamic_Optimization_of_Flow_Geometry_in_Mechanical_and_Civil_Engineering)
 
-It is a law of physics stating that all flow systems (natural or human-made) evolve in time to increase access to flow, creating tree-like,, hierarchical, or, dendritic configurations to minimize resistance. 
+It is a pattern noticed in evolutionar systems stating that all flow systems (natural or human-made) evolve in time to increase access to flow, creating tree-like,, hierarchical, or, dendritic configurations to minimize resistance. 
 
 It was discovered and formulated by Adrian Bejan, a Romanian-American professor of mechanical engineering at Duke University, in 1996. [38](https://mems.duke.edu/impact/research/energy/bejan-constructal-law) [39](https://medium.com/@jmullaly/on-constructal-law-and-theory-967c81a42565) [40](https://en.wikipedia.org/wiki/Adrian_Bejan) [41](https://www.eoht.info/page/Constructal%20theory)
 
 It posits that for a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed currents that flow through it.
 
 The optimization is subject to constraints, such as limited space, materials, or volume (e.g., maximizing heat transfer while restricting material volume).
-Mechanism: It explains the natural formation of tree-shaped flow structures, branching networks, and vascularization in both animate (rivers, lungs) and inanimate systems (power plants, heat exchangers). https://itrevolution.com/articles/the-physics-of-flow-how-the-constructal-law-can-revolutionize-product-development/
+Mechanism: It explains the natural formation of tree-shaped flow structures, branching networks, and vascularization in both animate (rivers, lungs) and inanimate systems (power plants, heat exchangers). [42](https://itrevolution.com/articles/the-physics-of-flow-how-the-constructal-law-can-revolutionize-product-development) [43](https://pubs.aip.org/aip/jap/article-abstract/113/15/151301/374245/Constructal-law-of-design-and-evolution-Physics) [44](https://pubs.aip.org/aip/jap/article-abstract/113/15/151301/374245/Constructal-law-of-design-and-evolution-Physics)
 
-The objective is to maximize global performance, which is equivalent to minimizing overall flow resistance or minimizing entropy generation. [42](https://www.sciencedirect.com/science/article/abs/pii/S0735193323003366) [43](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/59/5/269/446372/Constructal-Theory-From-Engineering-to-Physics-and?redirectedFrom=PDF) [44](https://fullpdfword.org/reviews/u4A87D/245592/4968440-advanced-engineering-thermodynamics-bejan)
+The objective is to maximize global performance, which is equivalent to minimizing overall flow resistance or minimizing entropy generation. [45](https://www.sciencedirect.com/science/article/abs/pii/S0735193323003366) [46](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/59/5/269/446372/Constructal-Theory-From-Engineering-to-Physics-and?redirectedFrom=PDF) [47](https://fullpdfword.org/reviews/u4A87D/245592/4968440-advanced-engineering-thermodynamics-bejan)
 
-It provides a physical basis for natural patterns, including the evolution of shapes in biology and technology and it is considered a fundamental, unifying law that covers natural, human-made, and social systems. [45](https://journals.biologists.com/jeb/article/208/9/1677/9374/The-constructal-law-of-organization-in-nature-tree) [46](https://royalsocietypublishing.org/rstb/article-abstract/365/1545/1335/21264/The-constructal-law-of-design-and-evolution-in?redirectedFrom=fulltext)
+It provides a physical basis for natural patterns, including the evolution of shapes in biology and technology and it is considered a fundamental, unifying law that covers natural, human-made, and social systems. [48](https://journals.biologists.com/jeb/article/208/9/1677/9374/The-constructal-law-of-organization-in-nature-tree) [49](https://royalsocietypublishing.org/rstb/article-abstract/365/1545/1335/21264/The-constructal-law-of-design-and-evolution-in?redirectedFrom=fulltext)
+
+I argue it can be analogically extended to thermodynamics by providing a basis for predicting configuration, rather than treating systems as "black boxes". The law is often described as the "arrow of time" for the evolution of design. [50](https://www.sciencedirect.com/science/article/abs/pii/S1571064511000509)
+
 
 ---
 Ronni Ross  
