@@ -65,10 +65,8 @@ The DMN is a network of interacting brain regions active when a person is not fo
 ### V. When the Valve Opens
 We can understand the valve better by observing what happens when it malfunctions or is chemically altered.
 
-1.  **Psychedelics:** Compounds like psilocybin and LSD suppress the Default Mode Network. They "relax" the high-level beliefs (priors). The valve widens.
-    *   **Result:** The user perceives "more" reality, colors are brighter, objects seem alive with meaning, and connections between unrelated concepts become visible. The filter that separates "self" from "environment" dissolves.
-2.  **Schizophrenia:** This can be viewed as an inability to filter. The "aberrant salience" hypothesis suggests that the brain assigns high significance to meaningless background noise. A car honking isn't just a noise; it is a message meant specifically for the individual. The valve is broken, and the flood of data creates a terrifying, over-connected reality.
-3.  **Autism (The Intense World Theory):** Some researchers propose that autism is not a deficit of processing, but an *excess*. The valve is too open, leading to sensory overload. The repetitive behaviors (rocking, stimming) are attempts to create a predictable, controlled input to soothe the overwhelming influx of reality.
+**Psychedelics:** Compounds like psilocybin and LSD suppress the Default Mode Network. They "relax" the high-level beliefs (priors). The valve widens.
+The user perceives "more" reality, colors are brighter, objects seem alive with meaning, and connections between unrelated concepts become visible. The filter that separates "self" from "environment" dissolves.
 
 The concept of the "cognitive valve" is not just poetic; it is a structural reality.
 *   **Philosophically:** It reminds us that our "truth" is merely a survival map, not the territory itself.
